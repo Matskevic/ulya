@@ -1,0 +1,69 @@
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\bin\Debug\Курсовой.exe.config
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\bin\Debug\Курсовой.exe
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\bin\Debug\Курсовой.pdb
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.csprojResolveAssemblyReference.cache
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.Admin.resources
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.Form1.resources
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.Properties.Resources.resources
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.csproj.GenerateResource.Cache
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.exe
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.pdb
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\bin\Debug\MySql.Data.dll
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\bin\Debug\MySql.Data.xml
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.Operacii.resources
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.Kurs.resources
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.Sortudniki.resources
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.Pokupateli.resources
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.NewOper.resources
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.NewSotr.resources
+c:\users\igrik\documents\visual studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.NewVal.resources
+C:\Users\Igrik\Documents\Visual Studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.About.resources
+C:\Users\Igrik\Documents\Visual Studio 2015\Projects\Курсовой\Курсовой\bin\Debug\itextsharp.dll
+C:\Users\Igrik\Documents\Visual Studio 2015\Projects\Курсовой\Курсовой\obj\Debug\Курсовой.Rez.resources
+C:\Users\Igrik\Documents\Visual Studio 2015\Projects\Курсовой — копия\Курсовой\bin\Debug\Курсовой.exe.config
+C:\Users\Igrik\Documents\Visual Studio 2015\Projects\Курсовой — копия\Курсовой\obj\Debug\Курсовой.exe
+C:\Users\Igrik\Documents\Visual Studio 2015\Projects\Курсовой — копия\Курсовой\obj\Debug\Курсовой.pdb
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\bin\Debug\Курсовой.exe.config
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\bin\Debug\Курсовой.exe
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\bin\Debug\Курсовой.pdb
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\bin\Debug\MySql.Data.dll
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\bin\Debug\MySql.Data.xml
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.csprojResolveAssemblyReference.cache
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.About.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.Admin.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.Form1.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.Kurs.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.NewOper.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.NewSotr.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.NewVal.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.Operacii.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.Pokupateli.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.Properties.Resources.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.Rez.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.Sortudniki.resources
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.csproj.GenerateResource.Cache
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.csproj.CoreCompileInputs.cache
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.exe
+E:\Kursovoy__kopia\Курсовой — копия\Курсовой\obj\Debug\Курсовой.pdb
+E:\курсовая\Курсовая\Курсовой\bin\Debug\Курсовой.exe.config
+E:\курсовая\Курсовая\Курсовой\bin\Debug\Курсовой.exe
+E:\курсовая\Курсовая\Курсовой\bin\Debug\Курсовой.pdb
+E:\курсовая\Курсовая\Курсовой\bin\Debug\MySql.Data.dll
+E:\курсовая\Курсовая\Курсовой\bin\Debug\MySql.Data.xml
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.csprojResolveAssemblyReference.cache
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.About.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.Admin.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.Form1.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.Kurs.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.NewOper.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.NewSotr.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.NewVal.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.Operacii.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.Pokupateli.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.Properties.Resources.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.Rez.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.Sortudniki.resources
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.csproj.GenerateResource.Cache
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.csproj.CoreCompileInputs.cache
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.exe
+E:\курсовая\Курсовая\Курсовой\obj\Debug\Курсовой.pdb
